@@ -7,7 +7,7 @@
     <title></title>
 </head>
 <body>
-    Bonjour test
+    Order Page
     <form id="form1" runat="server">
         <div>
         </div>
